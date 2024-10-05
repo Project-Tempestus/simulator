@@ -1,0 +1,19 @@
+
+scenario: simple
+teams:
+  - - name: Red
+    - combatants:
+        - name: Joanna Deer
+          regiment: Cadia
+          subclass: Stormtrooper
+        - name: Anita Krisinki
+          regiment: Krieg
+          subclass: Sargeant
+  - - name: Blue
+    - combatants:
+        - name: Guy Badskins
+          regiment: Vostroya
+          subclass: Grenadier
+        - name: Rob Bertholm
+          regiment: Catachan
+          subclass: Marksman

@@ -1,0 +1,6 @@
+pytest
+pydiceroll
+black
+pyyaml
+pathlib
+pytest-cov
